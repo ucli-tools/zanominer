@@ -53,7 +53,7 @@ A comprehensive script for managing Zano blockchain nodes, including wallet mana
 
 ```bash
 # Download
-wget https://raw.githubusercontent.com/Mik-TF/zanominer/main/zanominer.sh
+wget https://raw.githubusercontent.com/ucli-tools/zanominer/main/zanominer.sh
 
 # Install
 bash zanominer.sh install
